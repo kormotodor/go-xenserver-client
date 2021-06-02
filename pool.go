@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/kolo/xmlrpc"
+	xmlrpc "github.com/kolo/xmlrpc"
 )
 
 type Pool XenAPIObject

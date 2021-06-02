@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/kolo/xmlrpc"
+	xmlrpc "github.com/kolo/xmlrpc"
 )
 
 type VM_Guest_Metrics XenAPIObject
